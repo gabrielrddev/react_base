@@ -1,0 +1,37 @@
+.containerTransacoes {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 100px;
+  flex-direction: column;
+  margin: 80px 0px;
+  width: 100%;
+}
+
+.tituloTransacoes {
+  font-size: xx-large;
+  font-weight: 600;
+}
+
+.tabela {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
+  gap: 15px;
+  gap: 10px;
+}
+
+.linhaDaTabela {
+  border: 1px solid #e7e7e7;
+  display: grid;
+  width: 80%;
+  grid-template-columns: 100px 100px 100px 100px 100px;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.textoDaLinha {
+  font-size: medium;
+  font-weight: 500;
+}

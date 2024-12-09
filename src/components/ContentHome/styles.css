@@ -1,0 +1,27 @@
+.containerContentHome {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 200px;
+    flex-direction: column;
+    margin-top: 50px;
+  }
+  
+  .titleContentHome {
+    font-size: xx-large;
+    font-weight: 600;
+  }
+  
+  .ContainerItensHome {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    margin-right: 35%;
+    align-items: start;
+  }
+  
+  .titleContentText {
+    font-weight: 600;
+    font-size: x-large;
+  }
+  
